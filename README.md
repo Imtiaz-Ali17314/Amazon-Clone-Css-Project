@@ -35,3 +35,4 @@ Since this project consists of plain HTML and CSS, it requires no installation o
 
 ## 👤 Author
 Developed as a CSS layout practice project.
+
